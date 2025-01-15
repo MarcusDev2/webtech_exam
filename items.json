@@ -14,7 +14,8 @@
         "size": [
             "s",
             "l"
-        ]
+        ],
+        "id": "product-id-1"
     },
     {
         "type": "short-sleeve shirt",
@@ -33,7 +34,8 @@
             "m",
             "l",
             "xxl"
-        ]
+        ],
+        "id": "product-id-2"
     },
     {
         "type": "short-sleeve shirt",
@@ -57,7 +59,8 @@
             "l",
             "xl",
             "xxl"
-        ]
+        ],
+        "id": "product-id-3"
     },
     {
         "type": "short-sleeve shirt",
@@ -76,7 +79,8 @@
         "size": [
             "s",
             "l"
-        ]
+        ],
+        "id": "product-id-4"
     },
     {
         "type": "short-sleeve shirt",
@@ -93,7 +97,8 @@
         "size": [
             "s",
             "m"
-        ]
+        ],
+        "id": "product-id-5"
     },
     {
         "type": "short-sleeve shirt",
@@ -117,7 +122,8 @@
             "l",
             "xl",
             "xxl"
-        ]
+        ],
+        "id": "product-id-6"
     },
     {
         "type": "short-sleeve shirt",
@@ -135,7 +141,8 @@
             "m",
             "l",
             "xl"
-        ]
+        ],
+        "id": "product-id-7"
     },
     {
         "type": "short-sleeve shirt",
@@ -157,7 +164,8 @@
             "s",
             "m",
             "xl"
-        ]
+        ],
+        "id": "product-id-8"
     },
     {
         "type": "long-sleeve shirt",
@@ -177,7 +185,8 @@
             "s",
             "m",
             "l"
-        ]
+        ],
+        "id": "product-id-9"
     },
     {
         "type": "long-sleeve shirt",
@@ -199,7 +208,8 @@
             "m",
             "l",
             "xl"
-        ]
+        ],
+        "id": "product-id-10"
     },
     {
         "type": "long-sleeve shirt",
@@ -219,7 +229,8 @@
             "s",
             "m",
             "l"
-        ]
+        ],
+        "id": "product-id-11"
     },
     {
         "type": "long-sleeve shirt",
@@ -243,7 +254,8 @@
             "m",
             "l",
             "xl"
-        ]
+        ],
+        "id": "product-id-12"
     },
     {
         "type": "long-sleeve shirt",
@@ -261,7 +273,8 @@
         "keyword": "Women's T-Shirt Crew Neck L/S Essential Seamless - Sport shirt",
         "size": [
             "m"
-        ]
+        ],
+        "id": "product-id-13"
     },
     {
         "type": "long-sleeve shirt",
@@ -278,7 +291,8 @@
         "size": [
             "m",
             "l"
-        ]
+        ],
+        "id": "product-id-14"
     },
     {
         "type": "long-sleeve shirt",
@@ -297,7 +311,8 @@
         "size": [
             "m",
             "xl"
-        ]
+        ],
+        "id": "product-id-15"
     },
     {
         "type": "long-sleeve shirt",
@@ -321,7 +336,8 @@
             "s",
             "m",
             "l"
-        ]
+        ],
+        "id": "product-id-16"
     },
     {
         "type": "coat",
@@ -341,7 +357,8 @@
             "m",
             "l",
             "xl"
-        ]
+        ],
+        "id": "product-id-17"
     },
     {
         "type": "coat",
@@ -365,7 +382,8 @@
             "l",
             "xl",
             "xxl"
-        ]
+        ],
+        "id": "product-id-18"
     },
     {
         "type": "coat",
@@ -384,7 +402,8 @@
         "size": [
             "m",
             "l"
-        ]
+        ],
+        "id": "product-id-19"
     },
     {
         "type": "coat",
@@ -403,7 +422,8 @@
         "size": [
             "s",
             "l"
-        ]
+        ],
+        "id": "product-id-20"
     },
     {
         "type": "coat",
@@ -421,7 +441,8 @@
             "s",
             "m",
             "l"
-        ]
+        ],
+        "id": "product-id-21"
     },
     {
         "type": "coat",
@@ -440,7 +461,8 @@
         "size": [
             "m",
             "l"
-        ]
+        ],
+        "id": "product-id-22"
     },
     {
         "type": "coat",
@@ -462,7 +484,8 @@
             "m",
             "l",
             "xl"
-        ]
+        ],
+        "id": "product-id-23"
     },
     {
         "type": "coat",
@@ -481,7 +504,8 @@
         "size": [
             "s",
             "l"
-        ]
+        ],
+        "id": "product-id-24"
     },
     {
         "type": "trousers",
@@ -502,7 +526,8 @@
             "m",
             "xl",
             "xxl"
-        ]
+        ],
+        "id": "product-id-25"
     },
     {
         "type": "trousers",
@@ -522,7 +547,8 @@
             "s",
             "l",
             "xl"
-        ]
+        ],
+        "id": "product-id-26"
     },
     {
         "type": "trousers",
@@ -539,7 +565,8 @@
         "size": [
             "m",
             "l"
-        ]
+        ],
+        "id": "product-id-27"
     },
     {
         "type": "trousers",
@@ -559,7 +586,8 @@
             "s",
             "m",
             "l"
-        ]
+        ],
+        "id": "product-id-28"
     },
     {
         "type": "trousers",
@@ -576,7 +604,8 @@
         "size": [
             "s",
             "m"
-        ]
+        ],
+        "id": "product-id-29"
     },
     {
         "type": "trousers",
@@ -595,7 +624,8 @@
         "size": [
             "s",
             "m"
-        ]
+        ],
+        "id": "product-id-30"
     },
     {
         "type": "trousers",
@@ -617,7 +647,8 @@
             "s",
             "m",
             "l"
-        ]
+        ],
+        "id": "product-id-31"
     },
     {
         "type": "trousers",
@@ -638,7 +669,8 @@
         "size": [
             "m",
             "l"
-        ]
+        ],
+        "id": "product-id-32"
     },
     {
         "type": "boots",
@@ -658,7 +690,8 @@
             "s",
             "m",
             "l"
-        ]
+        ],
+        "id": "product-id-33"
     },
     {
         "type": "boots",
@@ -675,7 +708,8 @@
         "size": [
             "m",
             "xl"
-        ]
+        ],
+        "id": "product-id-34"
     },
     {
         "type": "boots",
@@ -694,7 +728,8 @@
             "m",
             "l",
             "xl"
-        ]
+        ],
+        "id": "product-id-35"
     },
     {
         "type": "boots",
@@ -712,7 +747,8 @@
             "m",
             "l",
             "xl"
-        ]
+        ],
+        "id": "product-id-36"
     },
     {
         "type": "boots",
@@ -730,7 +766,8 @@
             "s",
             "m",
             "l"
-        ]
+        ],
+        "id": "product-id-37"
     },
     {
         "type": "boots",
@@ -752,7 +789,8 @@
             "m",
             "l",
             "xl"
-        ]
+        ],
+        "id": "product-id-38"
     },
     {
         "type": "boots",
@@ -769,7 +807,8 @@
         "size": [
             "s",
             "l"
-        ]
+        ],
+        "id": "product-id-39"
     },
     {
         "type": "boots",
@@ -789,6 +828,7 @@
             "s",
             "l",
             "xxl"
-        ]
+        ],
+        "id": "product-id-40"
     }
 ]

@@ -1,0 +1,794 @@
+[
+    {
+        "type": "short-sleeve shirt",
+        "name": "ocun",
+        "gender": "men",
+        "colors": [
+            "#145d8a"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/016-6955-0811/ocun-classic-t-t-shirt.jpg"
+        ],
+        "price": 22.46,
+        "keyword": "Classic T - T-shirt",
+        "size": [
+            "s",
+            "l"
+        ]
+    },
+    {
+        "type": "short-sleeve shirt",
+        "name": "sherpa",
+        "gender": "men",
+        "colors": [
+            "#d1bc8a"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/033-2432-0111/sherpa-tharu-journey-s-s-shirt-shirt.jpg"
+        ],
+        "price": 41.22,
+        "keyword": "Tharu Journey S/S Shirt - Shirt",
+        "size": [
+            "s",
+            "m",
+            "l",
+            "xxl"
+        ]
+    },
+    {
+        "type": "short-sleeve shirt",
+        "name": "stoic",
+        "gender": "men",
+        "colors": [
+            "#222",
+            "#eceaea",
+            "#145d8a"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/015-2082-0111/stoic-merino180-bengtst-s-s-merino-base-layer.jpg",
+            "https://www.bfgcdn.com/600_600_90/015-2082-0211/stoic-merino180-bengtst-s-s-merino-base-layer.jpg",
+            "https://www.bfgcdn.com/600_600_90/015-2082-0511/stoic-merino180-bengtst-s-s-merino-base-layer.jpg"
+        ],
+        "price": 52.67,
+        "keyword": "Merino180 BengtSt. S/S - Merino base layer",
+        "size": [
+            "s",
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ]
+    },
+    {
+        "type": "short-sleeve shirt",
+        "name": "endurance",
+        "gender": "men",
+        "colors": [
+            "#a9a9a9",
+            "#000"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/016-8761-1211/endurance-portofino-s-s-performance-tee-sport-shirt.jpg",
+            "https://www.bfgcdn.com/600_600_90/016-8761-0311/endurance-portofino-s-s-performance-tee-sport-shirt.jpg"
+        ],
+        "price": 19.96,
+        "keyword": "Portofino S/S Performance Tee - Sport shirt",
+        "size": [
+            "s",
+            "l"
+        ]
+    },
+    {
+        "type": "short-sleeve shirt",
+        "name": "stoic",
+        "gender": "women",
+        "colors": [
+            "#800080"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/116-8233-0611/stoic-womens-merino150-heladagenst-t-shirt-multi-slim-merino-shirt.jpg"
+        ],
+        "price": 43.97,
+        "keyword": "Women's Merino150 HeladagenSt. T-Shirt Multi slim - Merino shirt",
+        "size": [
+            "s",
+            "m"
+        ]
+    },
+    {
+        "type": "short-sleeve shirt",
+        "name": "stoic",
+        "gender": "women",
+        "colors": [
+            "#145d8a",
+            "#000",
+            "#8b4513"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/916-3090-0511/stoic-womens-merino180-bengtst-t-shirt-slim-merino-shirt.jpg",
+            "https://www.bfgcdn.com/600_600_90/916-3090-0111/stoic-womens-merino180-bengtst-t-shirt-slim-merino-shirt.jpg",
+            "https://www.bfgcdn.com/600_600_90/916-3090-0211/stoic-womens-merino180-bengtst-t-shirt-slim-merino-shirt.jpg"
+        ],
+        "price": 55.77,
+        "keyword": "Women's Merino180 BengtSt. T-Shirt slim - Merino shirt",
+        "size": [
+            "s",
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ]
+    },
+    {
+        "type": "short-sleeve shirt",
+        "name": "vaude",
+        "gender": "women",
+        "colors": [
+            "#145d8a"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/156-1318-0411/vaude-womens-matera-full-zip-tricot-cycling-jersey.jpg"
+        ],
+        "price": 41.97,
+        "keyword": "Women's Matera Full Zip Tricot - Cycling jersey",
+        "size": [
+            "m",
+            "l",
+            "xl"
+        ]
+    },
+    {
+        "type": "short-sleeve shirt",
+        "name": "patagonia",
+        "gender": "women",
+        "colors": [
+            "#145d8a",
+            "#000",
+            "#db7093"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/116-7221-1511/patagonia-womens-cap-cool-merino-graphic-shirt-merino-shirt.jpg",
+            "https://www.bfgcdn.com/600_600_90/116-7221-0411/patagonia-womens-cap-cool-merino-graphic-shirt-merino-shirt.jpg",
+            "https://www.bfgcdn.com/600_600_90/116-7221-1811/patagonia-womens-cap-cool-merino-graphic-shirt-merino-shirt.jpg"
+        ],
+        "price": 79.95,
+        "keyword": "Women's Cap Cool Merino Graphic Shirt - Merino shirt",
+        "size": [
+            "s",
+            "m",
+            "xl"
+        ]
+    },
+    {
+        "type": "long-sleeve shirt",
+        "name": "stoic",
+        "gender": "men",
+        "colors": [
+            "#000",
+            "#145d8a"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/216-4442-0211/stoic-merinomesh150-sadjemst-l-s-merino-shirt.jpg",
+            "https://www.bfgcdn.com/600_600_90/216-4442-0311/stoic-merinomesh150-sadjemst-l-s-merino-shirt.jpg"
+        ],
+        "price": 49.47,
+        "keyword": "MerinoMesh150 SadjemSt. L/S - Merino shirt",
+        "size": [
+            "s",
+            "m",
+            "l"
+        ]
+    },
+    {
+        "type": "long-sleeve shirt",
+        "name": "patagonia",
+        "gender": "men",
+        "colors": [
+            "#a9a9a9",
+            "#145d8a",
+            "#8b4513"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/033-0627-2611/patagonia-l-s-lw-fjord-flannel-shirt-shirt.jpg",
+            "https://www.bfgcdn.com/600_600_90/033-0627-2411/patagonia-l-s-lw-fjord-flannel-shirt-shirt.jpg",
+            "https://www.bfgcdn.com/600_600_90/033-0627-2311/patagonia-l-s-lw-fjord-flannel-shirt-shirt.jpg"
+        ],
+        "price": 89.95,
+        "keyword": "L/S LW Fjord Flannel Shirt - Shirt",
+        "size": [
+            "m",
+            "l",
+            "xl"
+        ]
+    },
+    {
+        "type": "long-sleeve shirt",
+        "name": "patagonia",
+        "gender": "men",
+        "colors": [
+            "#8b4513",
+            "#000"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/033-2338-0111/patagonia-corduroy-shirt-shirt.jpg",
+            "https://www.bfgcdn.com/600_600_90/033-2338-0311/patagonia-corduroy-shirt-shirt.jpg"
+        ],
+        "price": 129.95,
+        "keyword": "Corduroy Shirt - Shirt",
+        "size": [
+            "s",
+            "m",
+            "l"
+        ]
+    },
+    {
+        "type": "long-sleeve shirt",
+        "name": "heber peak",
+        "gender": "men",
+        "colors": [
+            "#660",
+            "#000",
+            "#145d8a",
+            "#8b4513"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/033-2129-0411/heber-peak-sylvahe-flannel-shirt-shirt.jpg",
+            "https://www.bfgcdn.com/600_600_90/033-2129-0311/heber-peak-sylvahe-flannel-shirt-shirt.jpg",
+            "https://www.bfgcdn.com/600_600_90/033-2129-0111/heber-peak-sylvahe-flannel-shirt-shirt.jpg",
+            "https://www.bfgcdn.com/600_600_90/033-2129-0211/heber-peak-sylvahe-flannel-shirt-shirt.jpg"
+        ],
+        "price": 32.13,
+        "keyword": "SylvaHe. Flannel Shirt - Shirt",
+        "size": [
+            "m",
+            "l",
+            "xl"
+        ]
+    },
+    {
+        "type": "long-sleeve shirt",
+        "name": "odlo",
+        "gender": "women",
+        "colors": [
+            "#db7093",
+            "#6bb8bc"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/916-1146-0511/odlo-womens-t-shirt-crew-neck-l-s-essential-seamless-sport-shirt.jpg",
+            "https://www.bfgcdn.com/600_600_90/916-1146-0611/odlo-womens-t-shirt-crew-neck-l-s-essential-seamless-sport-shirt.jpg"
+        ],
+        "price": 54.95,
+        "keyword": "Women's T-Shirt Crew Neck L/S Essential Seamless - Sport shirt",
+        "size": [
+            "m"
+        ]
+    },
+    {
+        "type": "long-sleeve shirt",
+        "name": "craghoppers",
+        "gender": "women",
+        "colors": [
+            "#fff"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/133-1003-0111/craghoppers-womens-nosilife-pro-langarm-bluse-v-blouse.jpg"
+        ],
+        "price": 107.96,
+        "keyword": "Women's Nosilife Pro Langarm Bluse V - Blouse",
+        "size": [
+            "m",
+            "l"
+        ]
+    },
+    {
+        "type": "long-sleeve shirt",
+        "name": "devold",
+        "gender": "women",
+        "colors": [
+            "#145d8a",
+            "#000"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/115-0366-2011/devold-duo-active-woman-shirt-merino-base-layer.jpg",
+            "https://www.bfgcdn.com/600_600_90/115-0366-2111/devold-duo-active-woman-shirt-merino-base-layer.jpg"
+        ],
+        "price": 71.96,
+        "keyword": "Duo Active Woman Shirt - Merino base layer",
+        "size": [
+            "m",
+            "xl"
+        ]
+    },
+    {
+        "type": "long-sleeve shirt",
+        "name": "icebreaker",
+        "gender": "women",
+        "colors": [
+            "#660",
+            "#000",
+            "#fff",
+            "#db7093"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/115-0451-3711/icebreaker-womens-siren-l-s-sweetheart-merino-base-layer.jpg",
+            "https://www.bfgcdn.com/600_600_90/115-0451-3811/icebreaker-womens-siren-l-s-sweetheart-merino-base-layer.jpg",
+            "https://www.bfgcdn.com/600_600_90/115-0451-3911/icebreaker-womens-siren-l-s-sweetheart-merino-base-layer.jpg",
+            "https://www.bfgcdn.com/600_600_90/115-0451-3611/icebreaker-womens-siren-l-s-sweetheart-merino-base-layer.jpg"
+        ],
+        "price": 71.96,
+        "keyword": "Women's Siren L/S Sweetheart - Merino base layer",
+        "size": [
+            "s",
+            "m",
+            "l"
+        ]
+    },
+    {
+        "type": "coat",
+        "name": "elvine",
+        "gender": "men",
+        "colors": [
+            "#000",
+            "#8b4513"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/002-2018-0211/elvine-gunter-coat.jpg",
+            "https://www.bfgcdn.com/600_600_90/002-2018-0611/elvine-gunter-coat.jpg"
+        ],
+        "price": 341.96,
+        "keyword": "Gunter - Coat",
+        "size": [
+            "m",
+            "l",
+            "xl"
+        ]
+    },
+    {
+        "type": "coat",
+        "name": "patagonia",
+        "gender": "men",
+        "colors": [
+            "#000",
+            "#eceaea",
+            "#8b4513"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/004-5659-0311/patagonia-jackson-glacier-parka-parka.jpg",
+            "https://www.bfgcdn.com/600_600_90/004-5659-0211/patagonia-jackson-glacier-parka-parka.jpg",
+            "https://www.bfgcdn.com/600_600_90/004-5659-0111/patagonia-jackson-glacier-parka-parka.jpg"
+        ],
+        "price": 599.95,
+        "keyword": "Jackson Glacier Parka - Parka",
+        "size": [
+            "s",
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ]
+    },
+    {
+        "type": "coat",
+        "name": "dedicated",
+        "gender": "men",
+        "colors": [
+            "#660",
+            "#000"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/004-5791-0211/dedicated-parka-jacket-luvos-parka.jpg",
+            "https://www.bfgcdn.com/600_600_90/004-5791-0111/dedicated-parka-jacket-luvos-parka.jpg"
+        ],
+        "price": 224.96,
+        "keyword": "Parka Jacket Luvos - Parka",
+        "size": [
+            "m",
+            "l"
+        ]
+    },
+    {
+        "type": "coat",
+        "name": "vaude",
+        "gender": "men",
+        "colors": [
+            "#660",
+            "#000"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/002-3203-0211/vaude-mineo-coat-iii-coat.jpg",
+            "https://www.bfgcdn.com/600_600_90/002-3203-0111/vaude-mineo-coat-iii-coat.jpg"
+        ],
+        "price": 339.96,
+        "keyword": "Mineo Coat III - Coat",
+        "size": [
+            "s",
+            "l"
+        ]
+    },
+    {
+        "type": "coat",
+        "name": "didriksons",
+        "gender": "women",
+        "colors": [
+            "#c00"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/102-3064-0411/didriksons-womens-marta-lisa-parka-coat.jpg"
+        ],
+        "price": 119.97,
+        "keyword": "Women's Marta-Lisa Parka - Coat",
+        "size": [
+            "s",
+            "m",
+            "l"
+        ]
+    },
+    {
+        "type": "coat",
+        "name": "zimtstern",
+        "gender": "women",
+        "colors": [
+            "#660",
+            "#000"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/104-2865-0111/zimtstern-womens-stormdayz-parka-parka.jpg",
+            "https://www.bfgcdn.com/600_600_90/104-2865-0211/zimtstern-womens-stormdayz-parka-parka.jpg"
+        ],
+        "price": 209.97,
+        "keyword": "Women's Stormdayz Parka - Parka",
+        "size": [
+            "m",
+            "l"
+        ]
+    },
+    {
+        "type": "coat",
+        "name": "cmp",
+        "gender": "women",
+        "colors": [
+            "#fff",
+            "#000",
+            "#660"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/102-4206-0311/cmp-womens-coat-fix-hood-34k0096-coat.jpg",
+            "https://www.bfgcdn.com/600_600_90/102-4206-0211/cmp-womens-coat-fix-hood-34k0096-coat.jpg",
+            "https://www.bfgcdn.com/600_600_90/102-4206-0111/cmp-womens-coat-fix-hood-34k0096-coat.jpg"
+        ],
+        "price": 143.96,
+        "keyword": "Women's Coat Fix Hood 34K0096 - Coat",
+        "size": [
+            "m",
+            "l",
+            "xl"
+        ]
+    },
+    {
+        "type": "coat",
+        "name": "elvine",
+        "gender": "women",
+        "colors": [
+            "#8b4513",
+            "#000"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/102-2620-0611/elvine-womens-allyson-coat.jpg",
+            "https://www.bfgcdn.com/600_600_90/102-2620-0211/elvine-womens-allyson-coat.jpg"
+        ],
+        "price": 341.96,
+        "keyword": "Women's Allyson - Coat",
+        "size": [
+            "s",
+            "l"
+        ]
+    },
+    {
+        "type": "trousers",
+        "name": "norr\u00f8na",
+        "gender": "men",
+        "colors": [
+            "#145d8a",
+            "#000"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/010-0678-0211/norroena-falketind-flex1-pants-walking-trousers.jpg",
+            "https://www.bfgcdn.com/600_600_90/010-0678-0111/norroena-falketind-flex1-pants-walking-trousers.jpg"
+        ],
+        "price": 228.95,
+        "keyword": "Falketind Flex1 Pants - Walking trousers",
+        "size": [
+            "s",
+            "m",
+            "xl",
+            "xxl"
+        ]
+    },
+    {
+        "type": "trousers",
+        "name": "lundhags",
+        "gender": "men",
+        "colors": [
+            "#145d8a",
+            "#a9a9a9"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/010-0855-0311/lundhags-makke-light-pant-walking-trousers.jpg",
+            "https://www.bfgcdn.com/600_600_90/010-0855-0211/lundhags-makke-light-pant-walking-trousers.jpg"
+        ],
+        "price": 98.97,
+        "keyword": "Makke Light Pant - Walking trousers",
+        "size": [
+            "s",
+            "l",
+            "xl"
+        ]
+    },
+    {
+        "type": "trousers",
+        "name": "stoic",
+        "gender": "men",
+        "colors": [
+            "#000"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/010-1183-0111/stoic-saelkast-wool-winter-trekking-pants-walking-trousers.jpg"
+        ],
+        "price": 125.97,
+        "keyword": "S\u00e4lkaSt. Wool Winter Trekking Pants - Walking trousers",
+        "size": [
+            "m",
+            "l"
+        ]
+    },
+    {
+        "type": "trousers",
+        "name": "fj\u00e4llr\u00e4ven",
+        "gender": "men",
+        "colors": [
+            "#000",
+            "#660"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/007-0868-0211/fjaellraeven-soermland-tapered-winter-trousers-winter-trousers.jpg",
+            "https://www.bfgcdn.com/600_600_90/007-0868-0111/fjaellraeven-soermland-tapered-winter-trousers-winter-trousers.jpg"
+        ],
+        "price": 179.96,
+        "keyword": "S\u00f6rmland Tapered Winter Trousers - Winter trousers",
+        "size": [
+            "s",
+            "m",
+            "l"
+        ]
+    },
+    {
+        "type": "trousers",
+        "name": "craghoppers",
+        "gender": "women",
+        "colors": [
+            "#a9a9a9"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/110-0705-0311/craghoppers-womens-nosilife-clara-pant-walking-trousers.jpg"
+        ],
+        "price": 59.97,
+        "keyword": "Women's Nosilife Clara Pant - Walking trousers",
+        "size": [
+            "s",
+            "m"
+        ]
+    },
+    {
+        "type": "trousers",
+        "name": "whistler",
+        "gender": "women",
+        "colors": [
+            "#c00",
+            "#000"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/107-3195-0311/whistler-womens-wander-insulated-outdoor-pant-w-pro-10000-winter-trousers.jpg",
+            "https://www.bfgcdn.com/600_600_90/107-3195-0211/whistler-womens-wander-insulated-outdoor-pant-w-pro-10000-winter-trousers.jpg"
+        ],
+        "price": 71.96,
+        "keyword": "Women's Wander Insulated Outdoor Pant W-Pro 10000 - Winter trousers",
+        "size": [
+            "s",
+            "m"
+        ]
+    },
+    {
+        "type": "trousers",
+        "name": "mammut",
+        "gender": "women",
+        "colors": [
+            "#6bb8bc",
+            "#000",
+            "#145d8a"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/110-0951-0211/mammut-womens-zinal-hybrid-tights-walking-trousers.jpg",
+            "https://www.bfgcdn.com/600_600_90/110-0951-0111/mammut-womens-zinal-hybrid-tights-walking-trousers.jpg",
+            "https://www.bfgcdn.com/600_600_90/110-0951-0311/mammut-womens-zinal-hybrid-tights-walking-trousers.jpg"
+        ],
+        "price": 97.47,
+        "keyword": "Women's Zinal Hybrid Tights - Walking trousers",
+        "size": [
+            "s",
+            "m",
+            "l"
+        ]
+    },
+    {
+        "type": "trousers",
+        "name": "lundhags",
+        "gender": "women",
+        "colors": [
+            "#6bb8bc",
+            "#000",
+            "#660"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/108-0212-2111/lundhags-womens-makke-pant-walking-trousers.jpg",
+            "https://www.bfgcdn.com/600_600_90/108-0212-0411/lundhags-womens-makke-pant-walking-trousers.jpg",
+            "https://www.bfgcdn.com/600_600_90/108-0212-0311/lundhags-womens-makke-pant-walking-trousers.jpg"
+        ],
+        "price": 224.96,
+        "keyword": "Women's Makke Pant - Walking trousers",
+        "size": [
+            "m",
+            "l"
+        ]
+    },
+    {
+        "type": "boots",
+        "name": "scarpa",
+        "gender": "men",
+        "colors": [
+            "#a9a9a9",
+            "#000"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/019-0740-0111/scarpa-rush-trek-pro-gtx-walking-boots.jpg",
+            "https://www.bfgcdn.com/600_600_90/019-0740-0211/scarpa-rush-trek-pro-gtx-walking-boots.jpg"
+        ],
+        "price": 239.95,
+        "keyword": "Rush Trek Pro GTX - Walking boots",
+        "size": [
+            "s",
+            "m",
+            "l"
+        ]
+    },
+    {
+        "type": "boots",
+        "name": "la sportiva",
+        "gender": "men",
+        "colors": [
+            "#000"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/042-0183-0111/la-sportiva-tx4-mid-gtx-approach-shoes.jpg"
+        ],
+        "price": 172.46,
+        "keyword": "TX4 Mid GTX - Approach shoes",
+        "size": [
+            "m",
+            "xl"
+        ]
+    },
+    {
+        "type": "boots",
+        "name": "mammut",
+        "gender": "men",
+        "colors": [
+            "#000"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/022-0701-0111/mammut-ultimate-iii-mid-gtx-multisport-shoes.jpg"
+        ],
+        "price": 170.96,
+        "keyword": "Ultimate III Mid GTX - Multisport shoes",
+        "size": [
+            "s",
+            "m",
+            "l",
+            "xl"
+        ]
+    },
+    {
+        "type": "boots",
+        "name": "garmont",
+        "gender": "men",
+        "colors": [
+            "#8b4513"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/019-0947-0111/garmont-pinnacle-trek-gtx-walking-boots.jpg"
+        ],
+        "price": 251.96,
+        "keyword": "Pinnacle Trek GTX - Walking boots",
+        "size": [
+            "m",
+            "l",
+            "xl"
+        ]
+    },
+    {
+        "type": "boots",
+        "name": "keen",
+        "gender": "women",
+        "colors": [
+            "#a9a9a9"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/119-0643-0111/keen-womens-koven-mid-wp-walking-boots-bf.jpg"
+        ],
+        "price": 103.96,
+        "keyword": "Women's Koven Mid WP - Walking boots",
+        "size": [
+            "s",
+            "m",
+            "l"
+        ]
+    },
+    {
+        "type": "boots",
+        "name": "salomon",
+        "gender": "women",
+        "colors": [
+            "#a9a9a9",
+            "#000",
+            "#660"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/119-0468-0511/salomon-womens-x-ultra-4-mid-gtx-walking-boots.jpg",
+            "https://www.bfgcdn.com/600_600_90/119-0468-0211/salomon-womens-x-ultra-4-mid-gtx-walking-boots.jpg",
+            "https://www.bfgcdn.com/600_600_90/119-0468-0911/salomon-womens-x-ultra-4-mid-gtx-walking-boots.jpg"
+        ],
+        "price": 134.96,
+        "keyword": "Women's X Ultra 4 Mid GTX - Walking boots",
+        "size": [
+            "m",
+            "l",
+            "xl"
+        ]
+    },
+    {
+        "type": "boots",
+        "name": "merrell",
+        "gender": "women",
+        "colors": [
+            "#000"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/119-0577-0111/merrell-womens-accentor-3-sport-mid-gtx-walking-boots.jpg"
+        ],
+        "price": 127.01,
+        "keyword": "Women's Accentor 3 Sport Mid GTX - Walking boots",
+        "size": [
+            "s",
+            "l"
+        ]
+    },
+    {
+        "type": "boots",
+        "name": "hoka",
+        "gender": "women",
+        "colors": [
+            "#a9a9a9",
+            "#000"
+        ],
+        "images": [
+            "https://www.bfgcdn.com/600_600_90/122-1094-0111/hoka-womens-anacapa-2-low-gtx-multisport-shoes.jpg",
+            "https://www.bfgcdn.com/600_600_90/122-1094-0211/hoka-womens-anacapa-2-low-gtx-multisport-shoes.jpg"
+        ],
+        "price": 143.96,
+        "keyword": "Women's Anacapa 2 Low GTX - Multisport shoes",
+        "size": [
+            "s",
+            "l",
+            "xxl"
+        ]
+    }
+]
